@@ -1,0 +1,1744 @@
+fileFormatVersion: 2
+guid: 98ac0ee2eeeb82946825144ddab513b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3871858907138627565
+    second: fishColor4_0
+  - first:
+      213: 3102108067536551328
+    second: fishColor4_1
+  - first:
+      213: 7821264191814721841
+    second: fishColor4_2
+  - first:
+      213: 5184792295197830182
+    second: fishColor4_3
+  - first:
+      213: -3698873828528347989
+    second: fishColor4_4
+  - first:
+      213: 8542368812878269479
+    second: fishColor4_5
+  - first:
+      213: 6130179681761805174
+    second: fishColor4_6
+  - first:
+      213: 450567895203529183
+    second: fishColor4_7
+  - first:
+      213: 4745896122998225882
+    second: fishColor4_8
+  - first:
+      213: 5498242128000636540
+    second: fishColor4_9
+  - first:
+      213: 4483803003995019146
+    second: fishColor4_10
+  - first:
+      213: 1831211115752830780
+    second: fishColor4_11
+  - first:
+      213: -5669811648437248366
+    second: fishColor4_12
+  - first:
+      213: 4166577089265047625
+    second: fishColor4_13
+  - first:
+      213: -6450706224325056954
+    second: fishColor4_14
+  - first:
+      213: 5579574529932063221
+    second: fishColor4_15
+  - first:
+      213: 356312991911182691
+    second: fishColor4_16
+  - first:
+      213: 7511547911425093280
+    second: fishColor4_17
+  - first:
+      213: 4212019110580806283
+    second: fishColor4_18
+  - first:
+      213: -407858266511642224
+    second: fishColor4_19
+  - first:
+      213: -203331564422126454
+    second: fishColor4_20
+  - first:
+      213: 7564268224805440949
+    second: fishColor4_21
+  - first:
+      213: -8253561505988259631
+    second: fishColor4_22
+  - first:
+      213: -1582268454387173136
+    second: fishColor4_23
+  - first:
+      213: -4336234504587733960
+    second: fishColor4_24
+  - first:
+      213: -8758624428592535886
+    second: fishColor4_25
+  - first:
+      213: 5949174078474565272
+    second: fishColor4_26
+  - first:
+      213: -3916385396592222976
+    second: fishColor4_27
+  - first:
+      213: -6888388269626037603
+    second: fishColor4_28
+  - first:
+      213: -608485926624336176
+    second: fishColor4_29
+  - first:
+      213: -6552770969215595331
+    second: fishColor4_30
+  - first:
+      213: 7702791619973472193
+    second: fishColor4_31
+  - first:
+      213: 8379981686869956909
+    second: fishColor4_32
+  - first:
+      213: 8706700192525117167
+    second: fishColor4_33
+  - first:
+      213: 8830487895522672929
+    second: fishColor4_34
+  - first:
+      213: -8297095825945678770
+    second: fishColor4_35
+  - first:
+      213: -2992275271377136315
+    second: fishColor4_36
+  - first:
+      213: 4695535194216984993
+    second: fishColor4_37
+  - first:
+      213: -8628244640851876539
+    second: fishColor4_38
+  - first:
+      213: 6175916061855644906
+    second: fishColor4_39
+  - first:
+      213: -4116741139069037417
+    second: fishColor4_40
+  - first:
+      213: 8764966455789962551
+    second: fishColor4_41
+  - first:
+      213: -226998748099165509
+    second: fishColor4_42
+  - first:
+      213: 3194780044125860750
+    second: fishColor4_43
+  - first:
+      213: 3823154855885985577
+    second: fishColor4_44
+  - first:
+      213: 2322385705066942409
+    second: fishColor4_45
+  - first:
+      213: 1114263005910792930
+    second: fishColor4_46
+  - first:
+      213: 6656282613953529364
+    second: fishColor4_47
+  - first:
+      213: -7857019726958857933
+    second: fishColor4_48
+  - first:
+      213: -3262522325634020262
+    second: fishColor4_49
+  - first:
+      213: 3048612138598257566
+    second: fishColor4_50
+  - first:
+      213: 5766035465294443937
+    second: fishColor4_51
+  - first:
+      213: 6940759288799938898
+    second: fishColor4_52
+  - first:
+      213: 6150547933583531710
+    second: fishColor4_53
+  - first:
+      213: -4147777488452898305
+    second: fishColor4_54
+  - first:
+      213: 98298936131087784
+    second: fishColor4_55
+  - first:
+      213: -4315648734827251816
+    second: fishColor4_56
+  - first:
+      213: 1915678166558800748
+    second: fishColor4_57
+  - first:
+      213: -1805927278764814590
+    second: fishColor4_58
+  - first:
+      213: -1405105374137640043
+    second: fishColor4_59
+  - first:
+      213: 8754815131832741437
+    second: fishColor4_60
+  - first:
+      213: 8268945168963481001
+    second: fishColor4_61
+  - first:
+      213: 4359141167766504581
+    second: fishColor4_62
+  - first:
+      213: -2484595532407514559
+    second: fishColor4_63
+  - first:
+      213: 2333571552887715490
+    second: fishColor4_64
+  - first:
+      213: 2038363005140723516
+    second: fishColor4_65
+  - first:
+      213: -3211850022377977221
+    second: fishColor4_66
+  - first:
+      213: 4832696668795232262
+    second: fishColor4_67
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fishColor4_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 118
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318e19386d4644ac0800000000000000
+      internalID: -3871858907138627565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 414
+        width: 118
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adb36c0ad6ec0b20800000000000000
+      internalID: 3102108067536551328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 415
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1316997f756ba8c60800000000000000
+      internalID: 7821264191814721841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 415
+        width: 119
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ce27d4f1514f740800000000000000
+      internalID: 5184792295197830182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 415
+        width: 121
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba42495b9d5faacc0800000000000000
+      internalID: -3698873828528347989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_5
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 415
+        width: 122
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c0cf70d279c8670800000000000000
+      internalID: 8542368812878269479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 414
+        width: 124
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673cab401f5c21550800000000000000
+      internalID: 6130179681761805174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_7
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 414
+        width: 124
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd14dcc0d1db04600800000000000000
+      internalID: 450567895203529183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_8
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 413
+        width: 125
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb7638016fccd140800000000000000
+      internalID: 4745896122998225882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_9
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 413
+        width: 125
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d090a51ead4c40800000000000000
+      internalID: 5498242128000636540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 414
+        width: 124
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d3ff631ba93e30800000000000000
+      internalID: 4483803003995019146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_11
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 414
+        width: 124
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b13fbec4c96910800000000000000
+      internalID: 1831211115752830780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_12
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 415
+        width: 122
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e968f7858c051b0800000000000000
+      internalID: -5669811648437248366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_13
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 415
+        width: 121
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9489ce689c7a2d930800000000000000
+      internalID: 4166577089265047625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_14
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 415
+        width: 119
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64624b4cddc7a76a0800000000000000
+      internalID: -6450706224325056954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_15
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 415
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1fa6e1971ae6d40800000000000000
+      internalID: 5579574529932063221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_16
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 414
+        width: 118
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36109bf37c0e1f400800000000000000
+      internalID: 356312991911182691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 303
+        width: 125
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee1dd07016e3860800000000000000
+      internalID: 7511547911425093280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 303
+        width: 125
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8263599019147a30800000000000000
+      internalID: 4212019110580806283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 302
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091fdd9411ff65af0800000000000000
+      internalID: -407858266511642224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_20
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 302
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84aefaf40f9d2df0800000000000000
+      internalID: -203331564422126454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_21
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 302
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd8d4d8fdda9f860800000000000000
+      internalID: 7564268224805440949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_22
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 301
+        width: 125
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05bbf1a85757d80800000000000000
+      internalID: -8253561505988259631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_23
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 300
+        width: 125
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f832f45937aa0ae0800000000000000
+      internalID: -1582268454387173136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_24
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834914341b992d3c0800000000000000
+      internalID: -4336234504587733960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_25
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 300
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6eea4cc7d137680800000000000000
+      internalID: -8758624428592535886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_26
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 300
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8963076ed46bf8250800000000000000
+      internalID: 5949174078474565272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_27
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 300
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd7905b3436a9c0800000000000000
+      internalID: -3916385396592222976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_28
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 300
+        width: 125
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae8f17d578760a0800000000000000
+      internalID: -6888388269626037603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_29
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 301
+        width: 125
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d66bbc06493e87f0800000000000000
+      internalID: -608485926624336176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_30
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 302
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc89658581ef05a0800000000000000
+      internalID: -6552770969215595331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_31
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 302
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfdf5fca20d5ea60800000000000000
+      internalID: 7702791619973472193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_32
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 302
+        width: 125
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d299926f1fcab4470800000000000000
+      internalID: 8379981686869956909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_33
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 303
+        width: 125
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6e84de1b964d870800000000000000
+      internalID: 8706700192525117167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121040e74f13c8a70800000000000000
+      internalID: 8830487895522672929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ca1236e4bcadc80800000000000000
+      internalID: -8297095825945678770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54551639e7d4976d0800000000000000
+      internalID: -2992275271377136315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1f5a19164e92140800000000000000
+      internalID: 4695535194216984993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5452bdaa631524880800000000000000
+      internalID: -8628244640851876539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_39
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecf885dfe245b550800000000000000
+      internalID: 6175916061855644906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_40
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 180
+        width: 121
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7949d85deb56ed6c0800000000000000
+      internalID: -4116741139069037417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 180
+        width: 121
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73543918d8a63a970800000000000000
+      internalID: 8764966455789962551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_42
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 180
+        width: 121
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2471f57d989dcf0800000000000000
+      internalID: -226998748099165509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_43
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 180
+        width: 121
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83f0a10683265c20800000000000000
+      internalID: 3194780044125860750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_44
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 180
+        width: 121
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927d462e5139e0530800000000000000
+      internalID: 3823154855885985577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_45
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 180
+        width: 121
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfc5f58e75ca3020800000000000000
+      internalID: 2322385705066942409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_46
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eafbaddc48a67f00800000000000000
+      internalID: 1114263005910792930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_47
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4160f4955cddf5c50800000000000000
+      internalID: 6656282613953529364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_48
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3317165cf2246f290800000000000000
+      internalID: -7857019726958857933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_49
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c8dccfa3139b2d0800000000000000
+      internalID: -3262522325634020262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_50
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 180
+        width: 122
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93d71b7698de4a20800000000000000
+      internalID: 3048612138598257566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5fd27b4b2150050800000000000000
+      internalID: 5766035465294443937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 47
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c968acc7825060800000000000000
+      internalID: 6940759288799938898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 47
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe524332c22b5550800000000000000
+      internalID: 6150547933583531710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 47
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff13761a9522076c0800000000000000
+      internalID: -4147777488452898305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_55
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 46
+        width: 119
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad64e19c5a3d5100800000000000000
+      internalID: 98298936131087784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_56
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 46
+        width: 119
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f149475cbb14c0800000000000000
+      internalID: -4315648734827251816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_57
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 46
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b75bd842bd59a10800000000000000
+      internalID: 1915678166558800748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_58
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 45
+        width: 120
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f090b45be00f6e0800000000000000
+      internalID: -1805927278764814590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_59
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 45
+        width: 120
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b98865b10108ce0800000000000000
+      internalID: -1405105374137640043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_60
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 45
+        width: 120
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eea173af95f7970800000000000000
+      internalID: 8754815131832741437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_61
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 45
+        width: 120
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad204702d131c270800000000000000
+      internalID: 8268945168963481001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_62
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 46
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584018edbc7ce7c30800000000000000
+      internalID: 4359141167766504581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_63
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 46
+        width: 119
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ad358f681f48dd0800000000000000
+      internalID: -2484595532407514559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_64
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 46
+        width: 119
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a634dba6f2826020800000000000000
+      internalID: 2333571552887715490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_65
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 47
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e5bc7a58b94c10800000000000000
+      internalID: 2038363005140723516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_66
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 47
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a8458fb673d63d0800000000000000
+      internalID: -3211850022377977221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishColor4_67
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 47
+        width: 118
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600e0caf300311340800000000000000
+      internalID: 4832696668795232262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
